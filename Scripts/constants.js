@@ -1,10 +1,8 @@
-﻿/*
+/*
  * *****
-mario
-mario javascript project
-
-Hi everyone I followed a tutorial by taniarascia.com and florian rappl to build a game in 'mario style' for fun.
--sensibello.com
+ * TUTORIAL FOLLOWED: FLORIAN RAPPL, 2012.
+ * 
+ * 
  * *****
  */
 
