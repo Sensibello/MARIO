@@ -1,3 +1,11 @@
+/*
+ * *****
+ * TUTORIAL BY FLORIAN RAPPL, 2012.
+ * 
+ * 
+ * *****
+ */
+
 var keys = {
 	bind : function() {
 		$(document).on('keydown', function(event) {	
