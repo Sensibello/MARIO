@@ -1,4 +1,3 @@
-
 var reflection = {};
 
 //http://ejohn.org/blog/simple-javascript-inheritance/
